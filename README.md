@@ -10,7 +10,7 @@ Step 4: Enter name Project
 
 Step 5: Select .NET Core, ASP.NET Core 2.1, choose Web Application (Model-View-Controller) -> Create
 
-## Install EntityframworkCore : open Nuget Packager Manager
+## Install EntityframeworkCore : open Nuget Packager Manager
 ```csharp
 Microsoft.EntityFrameworkCore
 Microsoft.EntityFrameworkCore.SqlServer
