@@ -1,6 +1,6 @@
 # Pagination using ASP.NET Core 2.1
 ## Create Project
-Step 1: Opent Visual Studio 2010, File->New->choose Project
+Step 1: Open Visual Studio 2010, File->New->choose Project
 
 Step 2: Create a Project
 
